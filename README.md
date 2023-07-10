@@ -1,3 +1,5 @@
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="UI Developer by Sahil Bhagat on Dribbble" class=" nofocus" tabindex="0" aria-label="UI Developer by Sahil Bhagat on Dribbble" role="button" style="position: absolute; height: 100%; width: 100%; inset: 0px; margin: auto;">
+
 <h1 align="center">Hi 👋, I'm Farxod</h1>
 <h3 align="center">A passionate Fullsteck developer from Uzbekistan</h3>
 
